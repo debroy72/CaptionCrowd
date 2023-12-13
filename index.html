@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Player with Subtitles</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+<body>
+
+<div id="video-container">
+  <video id="video" controls>
+    <source src="/videos/video1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div id="subtitle-container"></div>
+
+  <!-- Form for the user to enter their name -->
+  <form id="name-form">
+    <label for="user-name">Enter Your Name:</label>
+    <input type="text" id="user-name" name="user-name" required>
+    <button type="button" onclick="saveUserName()">Save Name</button>
+  </form>
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
