@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   let videoCount = 0;
   let currentUserId = 0;
   let accumulatedData = [];
-  const maxUsers = 1;
+  const maxUsers = 5;
   let sessionNumber = 0;
 
   let allVideoSources = [
