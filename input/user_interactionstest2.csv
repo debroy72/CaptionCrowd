@@ -1,0 +1,46 @@
+User ID,User Name,Session Number,Clicked Word,Timestamp,Subtitle Number,Position in Subtitle,Exact Word,Video Name
+1,deb,1,carefully,00:02,1,2,carefully,video8.mp4
+1,deb,1,carefully,00:02,1,2,carefully,video8.mp4
+1,deb,1,see,01:01,15,8,see,video8.mp4
+1,deb,1,tell,00:06,1,7,tell,video17.mp4
+1,deb,1,inside,00:07,1,10,inside,video17.mp4
+1,deb,1,offside,00:12,5,11,offside,video34.mp4
+1,deb,1,technology,00:02,1,7,technology,video47.mp4
+1,deb,1,Get,00:03,1,10,Get,video47.mp4
+2,roy,1,coming,00:02,1,10,coming,video46.mp4
+2,roy,1,visualisation,00:03,1,13,visualisation,video46.mp4
+2,roy,1,What,00:13,9,1,What,video27.mp4
+2,roy,1,actually,00:06,2,10,actually,video11.mp4
+2,roy,1,These,00:15,2,11,These,video13.mp4
+2,roy,1,marketing,00:16,2,16,marketing,video13.mp4
+2,roy,1,coach,00:01,1,15,coach,video31.mp4
+3,zzz,1,Software,00:03,2,6,Software,video41.mp4
+3,zzz,1,chemiluminescence,00:06,2,9,chemiluminescence,video19.mp4
+3,zzz,1,snacks,00:02,2,2,snacks,video35.mp4
+3,zzz,1,seconds,00:01,1,7,seconds,video50.mp4
+3,zzz,1,transforming,00:07,1,10,transforming,video45.mp4
+4,hhh,1,more,00:01,1,8,more,video32.mp4
+4,hhh,1,necessary,01:30,-1,13,Word not found,video32.mp4
+4,hhh,1,ecosystems,00:01,1,7,ecosystems,video39.mp4
+4,hhh,1,what,02:00,38,11,what,video15.mp4
+5,llll,1,bees,00:02,1,9,bees,video9.mp4
+5,llll,1,way,00:09,-1,7,Word not found,video21.mp4
+5,llll,1,microwave,00:01,1,4,microwave,video1.mp4
+5,llll,1,colour,00:01,1,13,colour,video7.mp4
+5,llll,1,great,00:12,3,11,great,video33.mp4
+6,deb,2,cloud,00:03,1,3,cloud,video50.mp4
+6,deb,2,storage,00:14,2,10,storage,video50.mp4
+6,deb,2,headset,00:01,1,7,headset,video21.mp4
+6,deb,2,transforming,00:01,1,10,transforming,video45.mp4
+6,deb,2,corner,00:01,1,5,corner,video36.mp4
+6,deb,2,struggles,00:09,1,15,struggles,video38.mp4
+7,hdfghx,2,seconds,00:01,1,7,seconds,video50.mp4
+7,hdfghx,2,demonic,00:01,1,7,demonic,video22.mp4
+7,hdfghx,2,world,00:01,1,6,world,video43.mp4
+7,hdfghx,2,chemiluminescence,00:02,2,9,chemiluminescence,video19.mp4
+7,hdfghx,2,colour,00:01,1,13,colour,video7.mp4
+8,hydh,2,snacks,00:02,2,2,snacks,video35.mp4
+8,hydh,2,year,00:01,1,15,year,video33.mp4
+8,hydh,2,recipes,00:01,1,5,recipes,video1.mp4
+8,hydh,2,you,00:05,3,2,you,video21.mp4
+8,hydh,2,headset,00:01,-1,7,Word not found,video29.mp4

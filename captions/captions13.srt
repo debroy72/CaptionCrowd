@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:03,000
+So I've been getting a lot of comments asking to compare electrical engineering
+
+2
+00:00:00,300 --> 00:00:11,800
+to something else like electrical and electronics engineering or electrical and communications engineering or I don't know, EE versus ECE.
+
+3
+00:00:11,800 --> 00:00:14,800
+And the reality is none of these things mean anything. These are all probably like
+
+4
+00:00:14,800 --> 00:00:19,280
+marketing gimmicks by universities to show that they can offer multiple majors
+
+5
+00:00:19,280 --> 00:00:22,280
+when in reality there's only one major and that is electrical engineering.
+
+6
+00:00:22,280 --> 00:00:25,650
+Electronics is a branch of electrical engineering. Same with communication.
+
+7
+00:00:25,650 --> 00:00:31,640
+It's a branch of electrical engineering. Electrical engineering is based on electromagnetic physics. It's based on the physics of charges.
+
+8
+00:00:31,640 --> 00:00:43,440
+It's based on the idea that if you have a charge, charge exerts an electric field.
+
+9
+00:00:35,240 --> 00:00:38,040
+And if I take that charge and I move it, that exerts a magnetic field.
+
+10
+00:00:38,040 --> 00:00:43,440
+And if I keep moving it back and forth, changing magnetic field exerts an electric field back once again.
+
+11
+00:00:43,440 --> 00:00:47,320
+And this is literally electrical engineering. It's based on this electromagnetic physics.
+
+12
+00:00:47,320 --> 00:00:51,040
+Now, if you don't believe me, I would strongly urge you to check your university's curriculum and
+
+13
+00:00:51,040 --> 00:00:54,040
+you will see that most of the courses are the exactly the same.
+
+14
+00:00:54,040 --> 00:00:56,000
+You'll still have to take calculus. You'll still have to take tons of physics.
+
+15
+00:00:56,000 --> 00:01:00,400
+You'll still have to take some type of electronics classes where you learn about circuits.
+
+16
+00:01:00,400 --> 00:01:03,240
+You're still going to have to take signals and systems and learn about signal processing.
+
+17
+00:01:03,240 --> 00:01:05,040
+And sure, maybe like an electronics engineering degree,
+
+18
+00:01:05,040 --> 00:01:11,640
+you will be a lot more focused on like circuit design and breadboard design and things like that and PCBs.
+
+19
+00:01:11,640 --> 00:01:15,480
+While like a purely electrical engineering degree might include other options or
+
+20
+00:01:15,480 --> 00:01:21,480
+like a communication or telecommunications degree will focus on signal processing and will focus on electromagnetic waves.
+
+21
+00:01:21,480 --> 00:01:25,000
+But there's only one physics and that physics is electromagnetic physics.
+
+22
+00:01:25,000 --> 00:01:29,760
+It's the physics based on electric fields, magnetic fields and electromagnetic waves. And that's it.
+
+23
+00:01:29,760 --> 00:01:35,320
+If you understand charges, electric fields, magnetic fields, electromagnetic waves,
+
+24
+00:01:35,320 --> 00:01:41,320
+if you understand those things, that is the foundation of any electrical electronics, telecommunications major or anything like that.
+
+25
+00:01:41,400 --> 00:01:48,240
+So as always in my videos, I urge you to learn the fundamentals and get back to the basics and really focus on getting the basics really well.
+
+26
+00:01:48,240 --> 00:01:51,520
+Because if you understand the fundamentals, if you understand electromagnetic physics and
+
+27
+00:01:51,240 --> 00:01:55,240
+you go out in the real world and there's all these people throwing these fancy terms that you you're not
+
+28
+00:01:55,240 --> 00:02:01,520
+really fazed by it because you have a very solid understanding of the ground that everything else is built on top of.
+
+29
+00:02:01,600 --> 00:02:07,640
+I will say that one important distinction and major difference is electrical engineering versus electrical engineering technology.
+
+30
+00:02:07,640 --> 00:02:13,920
+That's because the electrical engineering technology has a bit more focus on application less on the electromagnetic physics theory.
+
+31
+00:02:13,920 --> 00:02:16,040
+And I actually made a video about that so you can check it out over here.
+

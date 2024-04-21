@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:03,280
+Here is cloud computing in 60 seconds.
+
+2
+00:00:06,960 --> 00:00:15,600
+Cloud computing refers to computing services such as data storage or computing power or programs
+
+3
+00:00:15,600 --> 00:00:22,080
+that are provided on demand and is delivered as a service over the internet.
+
+4
+00:00:22,080 --> 00:00:26,720
+Think of Apple's iCloud that you use to back up and store your phone data
+
+5
+00:00:26,720 --> 00:00:33,440
+and the way we now use Microsoft's Office tools via their 365 cloud platform
+
+6
+00:00:34,080 --> 00:00:37,360
+or how we store our documents on Google Docs.
+
+7
+00:00:38,000 --> 00:00:44,880
+Instead of buying or owning the technology, it is usually provided via a subscription service.
+
+8
+00:00:45,680 --> 00:00:52,240
+That means you usually pay for what you use and where the IT infrastructure used to provide
+
+9
+00:00:52,240 --> 00:00:56,080
+the service is managed by the provider and not by the user.
+
+10
+00:00:56,640 --> 00:01:02,480
+Cloud computing is now used by individuals and companies of all sizes as a very convenient and
+
+11
+00:01:02,480 --> 00:01:05,440
+flexible way to access computing services.
+
+12
+00:01:05,440 --> 00:01:09,840
+Thanks for watching. Subscribe to my channel for more bite-sized insights
+
+13
+00:01:09,840 --> 00:01:20,080
+or to dive deeper into the topic you can find longer explanations and in-depth discussions.
+

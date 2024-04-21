@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:05,720
+My name is Josh Portluck. I studied mechatronic engineering at Curtin and I started my PhD
+
+2
+00:00:05,720 --> 00:00:10,560
+in aerospace automation. I ended up focusing on flying robots and that's where I've led
+
+3
+00:00:10,560 --> 00:00:14,800
+into my career as well. When I was young I realised I liked taking things apart, much
+
+4
+00:00:14,800 --> 00:00:19,440
+to my parents' dismay. They'd buy me a new toy and I'd play with it for a few seconds
+
+5
+00:00:19,440 --> 00:00:24,320
+before being curious about what was inside it. And that sort of led me through high school
+
+6
+00:00:24,320 --> 00:00:29,780
+wanting to get into engineering, so doing all the suitable maths and physics and whatnot.
+
+7
+00:00:29,780 --> 00:00:35,340
+And I chose Curtin because it had a good reputation for practical engineering and really applied
+
+8
+00:00:35,340 --> 00:00:40,340
+engineering to industry. During my degree I really enjoyed the projects, particularly
+
+9
+00:00:40,340 --> 00:00:44,300
+the Farnia project and I developed a flying robot which led me to the career path that
+
+10
+00:00:44,300 --> 00:00:49,820
+I have today. I'm Chief Technology Officer at Scientific Aerospace. I founded that company
+
+11
+00:00:49,820 --> 00:00:55,020
+and we acquired a company I used to work for, Cyber Technology, that developed Unmanned
+
+12
+00:00:55,020 --> 00:01:00,860
+Aircraft. So Scientific Aerospace developed commercial-grade UAVs or drones with aerial
+
+13
+00:01:00,860 --> 00:01:06,740
+cameras and video capability for inspection, surveying and various different industries
+
+14
+00:01:06,740 --> 00:01:11,420
+requiring aerial imagery. We have some very interesting projects that we're working on
+
+15
+00:01:11,420 --> 00:01:16,020
+at the moment, especially involving surveying high precision areas. So we're working closely
+
+16
+00:01:16,020 --> 00:01:22,020
+with Landgate, a government surveying customer, to survey the beach lands and check for erosion.
+
+17
+00:01:22,020 --> 00:01:26,420
+And that's been really interesting work. The most useful thing I took out of the degree
+
+18
+00:01:26,420 --> 00:01:31,220
+at Curtin University was project management skills, particularly trading off between mechanical,
+
+19
+00:01:31,220 --> 00:01:35,540
+electrical and software engineering and trying to find the optimal solution.
+
+20
+00:01:35,540 --> 00:01:40,420
+Cybercord has had a lot of commercial success in the civil industrial infrastructure inspection
+
+21
+00:01:40,420 --> 00:01:45,900
+industries. This includes mining, oil and gas, power lines, communication towers, wherever
+
+22
+00:01:45,900 --> 00:01:50,380
+there's high-altitude assets that need inspecting. One great example is the work we've done with
+
+23
+00:01:50,380 --> 00:01:54,940
+Woodside where we can fly up with Cybercord and visually inspect the flare tip while it's
+
+24
+00:01:54,940 --> 00:01:59,420
+still live. So there's a large flame coming out the top, yet we can still safely inspect
+
+25
+00:01:59,420 --> 00:02:04,900
+it without having to shut it down or risk sending people up. My aspirations for the future is
+
+26
+00:02:04,900 --> 00:02:09,860
+Scientific Aerospace to be a world-leading provider of unmanned aerial robotics. And
+
+27
+00:02:09,860 --> 00:02:13,980
+this includes the Cybercord but various other platforms and technologies that we're developing
+
+28
+00:02:13,980 --> 00:02:16,420
+and integrating to provide solutions for end users.
+

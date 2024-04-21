@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:04,480
+Now this is very interesting.
+
+2
+00:00:04,480 --> 00:00:09,160
+You get to see the sunrise before the sun actually rises.
+
+3
+00:00:09,160 --> 00:00:10,840
+You know what happens?
+
+4
+00:00:10,840 --> 00:00:17,320
+Earth's atmosphere has different layers and also the optical densities of these layers
+
+5
+00:00:17,320 --> 00:00:23,880
+decreases as you move away from the earth's surface that is with increasing height.
+
+6
+00:00:23,880 --> 00:00:32,560
+So what happens is just before sunrise, before the sun reaches the horizon, the sunlight
+
+7
+00:00:32,560 --> 00:00:36,440
+enters obliquely into the atmosphere.
+
+8
+00:00:36,440 --> 00:00:40,240
+It gets refracted through the atmospheric layers.
+
+9
+00:00:40,240 --> 00:00:46,440
+Now this refraction causes the light rays to bend so the sunlight actually reaches the
+
+10
+00:00:46,440 --> 00:00:50,560
+earth's surface in a curved path.
+
+11
+00:00:51,520 --> 00:00:54,880
+What happens from the point of view of an observer?
+
+12
+00:00:54,880 --> 00:01:01,280
+Following the path of the light rays entering the eyes, the observer actually sees the sun
+
+13
+00:01:01,280 --> 00:01:06,000
+slightly above its actual position.
+
+14
+00:01:06,000 --> 00:01:13,120
+And as a result of that, he sees the sun about two minutes before the sun actually rises.
+

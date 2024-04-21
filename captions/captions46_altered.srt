@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:11,080
+The Digital Twins really one of the up and coming themes in visualisation where we're
+
+2
+00:00:11,080 --> 00:00:16,680
+looking at a connected data source, so that could be a plant, it could be a process, it
+
+3
+00:00:16,680 --> 00:00:19,880
+could be a product, feeding into a virtual model.
+
+4
+00:00:19,880 --> 00:00:25,000
+I think there are two levels of understanding at the moment. Some of the Catapult centres
+
+5
+00:00:25,000 --> 00:00:29,640
+have been for some time working with leading businesses. They are effectively working with
+
+6
+00:00:29,640 --> 00:00:35,520
+automation systems. They have a high level of understanding. The other level of understanding
+
+7
+00:00:35,520 --> 00:00:39,920
+is a more generic awareness and that's where a lot of the questions are coming from. People
+
+8
+00:00:39,920 --> 00:00:45,320
+are asking how can I get a Digital Twin and what's it going to do for us in terms of business
+
+9
+00:00:45,320 --> 00:00:46,320
+impact.
+
+10
+00:00:46,320 --> 00:00:51,280
+So one of the biggest challenges of the Digital Twin is the vast number of different source
+
+11
+00:00:51,280 --> 00:00:55,480
+models and 3D models that are out there. So there isn't a seamless transition from a
+
+12
+00:00:55,480 --> 00:01:01,320
+complex 3D model into a real time interactive package. The model has to be modified, edited
+
+13
+00:01:01,320 --> 00:01:06,240
+and optimised for the application. So different workflows need to be developed and adopted
+
+14
+00:01:06,240 --> 00:01:11,800
+by designers so that they build the 3D content in an optimised format that hopefully can
+
+15
+00:01:11,800 --> 00:01:16,680
+still be used for their core applications but then enables Digital Twins and other applications
+
+16
+00:01:16,680 --> 00:01:18,520
+to feed off that.
+
+17
+00:01:18,520 --> 00:01:23,040
+I think the biggest part of the challenge is how you get human engagement, how you get
+
+18
+00:01:23,080 --> 00:01:28,440
+operators to work with this new technology. It's sort of human nature to be resistant
+
+19
+00:01:28,440 --> 00:01:33,640
+to change but if we don't change you'll find there are similar companies that are prepared
+
+20
+00:01:33,640 --> 00:01:38,920
+to embrace those changes and become more productive. So the point being is we need to embrace change
+
+21
+00:01:38,920 --> 00:01:42,360
+but you have to do it in a very careful way. I think it's going to be an evolution rather
+
+22
+00:01:42,360 --> 00:01:44,200
+than a revolution.
+
+23
+00:01:44,200 --> 00:01:48,880
+The technology is no longer the barrier. We can do things now that five years ago we'd
+
+24
+00:01:49,000 --> 00:01:53,880
+have dreamt of. The barrier is now around the adoption of it. Because of that we actually
+
+25
+00:01:53,880 --> 00:02:00,120
+need to drive this community to develop and publish and publicise more use cases where
+
+26
+00:02:00,120 --> 00:02:04,560
+there is clear return on investment and it's only by that that we can really accelerate
+
+27
+00:02:04,560 --> 00:02:07,840
+the adoption of these technologies and extract greater value from them.
+

@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:03,440
+So the human race is about to enter a totally data-minded existence.
+
+2
+00:00:03,440 --> 00:00:08,000
+Education happens to be, twoday, the world's most data-minable industry by far.
+
+3
+00:00:08,000 --> 00:00:11,240
+So maybe one day healthcare will be up there when they have little nanobots
+
+4
+00:00:11,240 --> 00:00:13,000
+that are in your bloodstream that are doing reel-time analysis.
+
+5
+00:00:13,000 --> 00:00:17,400
+So Newton today gets 5 to 10 million actionable data per student per day.
+
+6
+00:00:17,400 --> 00:00:21,200
+If you tag all of your content and you do it down to the atomic concept level,
+
+7
+00:00:21,200 --> 00:00:25,200
+down to the sentence, down to the clause, you unlock an incredible amount of traped, hidden data.
+
+8
+00:00:25,200 --> 00:00:27,000
+Everything in education is corralated to everything else.
+
+9
+00:00:27,000 --> 00:00:29,800
+Every single concept is correlated in a predictable way to everything else.
+
+10
+00:00:29,800 --> 00:00:31,800
+Using pychometrics, right?
+
+11
+00:00:31,800 --> 00:00:35,800
+You do a little bit of work for Newton and we use just the established science of psychometrics
+
+12
+00:00:35,800 --> 00:00:38,800
+to cascade out hundreds of other data, right?
+
+13
+00:00:38,800 --> 00:00:41,800
+So we can produce incredible quantities of datas per users per day.
+
+14
+00:00:41,800 --> 00:00:43,800
+It's really, really hard to get that, okay?
+
+15
+00:00:43,800 --> 00:00:46,800
+For every one of the students, we can figure out within a few hours what they're strong at
+
+16
+00:00:46,800 --> 00:00:48,800
+and what they're weak at at the beginning of the course, right?
+
+17
+00:00:48,800 --> 00:00:51,800
+So we can produce a unique syllabus for each student each day, literally unique.
+
+18
+00:00:51,800 --> 00:00:55,800
+There's not enough time in the universe for any two students to have the same syllabus on any one day.
+
+19
+00:00:55,800 --> 00:00:57,800
+So we know you're going to fail. We know it in advance and we can prevent it in advance.
+
+20
+00:00:57,800 --> 00:01:00,800
+Let's go find a group of people who are psychometrically equivalent to that kid.
+
+21
+00:01:00,800 --> 00:01:03,800
+They learn the same ways, they have the same learning styles, they know the same stuff
+
+22
+00:01:03,800 --> 00:01:08,800
+because Newton can figure out things like you learn math best in the morning between 840 and 9.13 a.m.
+
+23
+00:01:08,800 --> 00:01:10,800
+You learn science best in 42-minute bite sizes.
+
+24
+00:01:10,800 --> 00:01:12,800
+The 44-minute market click rate always begins to decline.
+
+25
+00:01:12,800 --> 00:01:14,800
+You start mising questions. You normally get right.
+
+26
+00:01:14,800 --> 00:01:21,800
+You learn social studies best with video clips or 22 video to 78% text or whatever your optimal cocktail of fun.
+
+27
+00:01:21,800 --> 00:01:25,800
+We literally have more data about our students than any company has about anybody else, about anything.
+
+28
+00:01:25,800 --> 00:01:29,800
+This is a course at ASU. They had to change their semester structure into a modular semester structure
+
+29
+00:01:29,800 --> 00:01:33,800
+because we were suddenly telling things like if you give this woman here the final right now, she'll get an A.
+
+30
+00:01:33,800 --> 00:01:35,800
+It's only 14 days into the course. I promise you she'll get an A.
+
+31
+00:01:35,800 --> 00:01:38,800
+They all look like flees, but that's all in an individual learning path.
+
+32
+00:01:38,800 --> 00:01:41,800
+Noticed that some of them are going really fast, some are going really slow.
+
+33
+00:01:41,800 --> 00:01:45,800
+You can look at some of those students and think, boy, that poor schmuck is realy in a lot of trouble.
+
+34
+00:01:45,800 --> 00:01:50,800
+So where we think we're going with this, talked about it as kind of a joke, but it really should work, is like a food diary.
+
+35
+00:01:50,800 --> 00:01:54,800
+You tell us what you had for breakfast every morning at the begining of the semester.
+
+36
+00:01:54,800 --> 00:01:56,800
+By the end of the semester, we should be able to tell you what you had for breakfast
+
+37
+00:01:56,800 --> 00:01:58,800
+because you always do better on the days you have scrambled eggs.
+
+38
+00:01:58,800 --> 00:02:00,800
+And more importantly, we should be able to tell you what you shall have for breakfast.
+

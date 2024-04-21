@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:03,840
+Many young players and parents often get confused with the offside role in soccer.
+
+2
+00:00:03,840 --> 00:00:06,160
+Here's a simple explanation under two minutes.
+
+3
+00:00:06,160 --> 00:00:08,960
+There are some basic rules to understand first.
+
+4
+00:00:08,960 --> 00:00:12,160
+Only the team with possession of the ball can be offside.
+
+5
+00:00:12,160 --> 00:00:14,480
+So a defending team cannot be called offside.
+
+6
+00:00:14,480 --> 00:00:18,080
+And offside can only occur on the attacking side of the field.
+
+7
+00:00:18,080 --> 00:00:19,760
+So let's illustrate this.
+
+8
+00:00:19,760 --> 00:00:23,520
+The red team has possession of the ball here, and they are attacking from left to right.
+
+9
+00:00:23,520 --> 00:00:25,840
+This side of the field is their defending half.
+
+10
+00:00:25,840 --> 00:00:29,200
+No player from the red team can be called offside on this side of the line.
+
+11
+00:00:29,360 --> 00:00:33,040
+He or she can only be called offside on this attacking side of the field.
+
+12
+00:00:34,080 --> 00:00:35,520
+So what is offside then?
+
+13
+00:00:36,320 --> 00:00:39,360
+Technically speaking, a player is in an offside position
+
+14
+00:00:39,360 --> 00:00:42,480
+when an attacking player is nearer to the opponent's goal line
+
+15
+00:00:42,480 --> 00:00:45,040
+than both the ball and the second to last opponent.
+
+16
+00:00:47,280 --> 00:00:49,520
+So in this case, as the red team is on attack,
+
+17
+00:00:49,520 --> 00:00:52,800
+the goalkeeper is the first opponent and this defender is the second.
+
+18
+00:00:52,800 --> 00:00:57,520
+A real simple way to look at it is to draw an imaginary line across the field at the last
+
+19
+00:00:57,600 --> 00:01:01,200
+defender and any player beyond that line is offside.
+
+20
+00:01:01,200 --> 00:01:03,600
+This player is offside, this player is not.
+
+21
+00:01:05,280 --> 00:01:08,880
+Now just being in an offside position is not an infraction.
+
+22
+00:01:08,880 --> 00:01:13,600
+However, it is an infraction when the attacking player is in an offside position
+
+23
+00:01:13,600 --> 00:01:15,680
+and is actively involved in a play.
+
+24
+00:01:15,680 --> 00:01:19,120
+So if the ball is played to him now, the referee stops play
+
+25
+00:01:19,120 --> 00:01:22,240
+and awards a free kick to the defending team for the position of the foul.
+
+26
+00:01:23,520 --> 00:01:26,160
+There's one additional scenario of an offside infraction.
+
+27
+00:01:26,160 --> 00:01:29,840
+If the ball gets behind the defender, the ball becomes the offside line
+
+28
+00:01:29,840 --> 00:01:32,240
+and cannot be played forward to an attacking teammate.
+
+29
+00:01:32,880 --> 00:01:34,480
+You must stay behind the ball.
+
+30
+00:01:35,680 --> 00:01:38,400
+Finally, there are three exceptions when offside is not called.
+
+31
+00:01:39,040 --> 00:01:42,080
+On a goal kick, a throw in, and a corner kick.
+
+32
+00:01:44,080 --> 00:01:46,800
+I hope this clarified what the offside rule is in soccer.
+
+33
+00:01:46,800 --> 00:01:48,640
+Have fun and thanks for watching.
+

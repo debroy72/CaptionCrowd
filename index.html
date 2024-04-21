@@ -10,18 +10,23 @@
 <body>
 
 <div id="video-container">
-  <video id="video" controls>
-    <source src="/videos/video1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <div id="subtitle-container"></div>
-
-  <!-- Form for the user to enter their name -->
   <form id="name-form">
     <label for="user-name">Enter Your Name:</label>
     <input type="text" id="user-name" name="user-name" required>
-    <button type="button" onclick="saveUserName()">Save Name</button>
+
+    <label for="session-number">Enter Session Number:</label>
+    <input type="number" id="session-number" name="session-number" required>
+
+    <button type="button" id="start-button">Start Session</button>
   </form>
+
+  <div id="video-wrapper">
+    <video id="video" controls style="display: none;">
+      <source src="/videos/video1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div id="subtitle-container"></div>
 </div>
 
 <script src="app.js"></script>

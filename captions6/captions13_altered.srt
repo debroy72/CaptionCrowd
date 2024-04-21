@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:11,800
+So I've being getting a lot of comments asking to compare electrical enginering to something else like electrical and electronics engineering or electrical and communications engineering or I don't know, EEE versus ECE.
+
+2
+00:00:11,800 --> 00:00:22,280
+And the reality is none of these things mean anything. These are all probably like marketing gimmicks by universities to show that they can offer multiple majors when in reality there's only one major and that is electrical engineering.
+
+3
+00:00:22,280 --> 00:00:31,640
+Electronics is a branch of electrical engineering. Same with communication. It's a branch of electrical engineering. Electrical engineering is based on electromagnetic physics. It's based on the physics of charges.
+
+4
+00:00:31,640 --> 00:00:43,440
+It's based on the idea that if you have a charge, charge exerts an electric field. And if I take that charge and I move it, that exerts a magnetic field. And if I keep moving it back and forth, changing magnetic field exerts an electric field back once again.
+
+5
+00:00:43,440 --> 00:00:47,320
+And this is literally electrical engineering. It's based on this magnetic physics.
+
+6
+00:00:47,320 --> 00:00:54,040
+Now, if you don't believe me, I would strongly urge you to check your universitys curriculum and you will see that most of the courses are the exactly the same.
+
+7
+00:00:54,040 --> 00:01:00,400
+You'll still have to take calculus. You'll stilll have to take tons of physics. You'll still have to take some type of electronics classes where you learnt about circuits.
+
+8
+00:01:00,400 --> 00:01:11,640
+You're still going to have to take signals and systems and learn about signal processsing. And sure, maybe like an electronics engineering degree, you will be a lot more focused on like circuit design and breadboard design and things like that and PCBs.
+
+9
+00:01:11,640 --> 00:01:21,480
+While like a purely electrical engineering degree might include other options or like a communication or telecommunications degree will focus on signal processing and will focus on electromagnetic waves.
+
+10
+00:01:21,480 --> 00:01:29,760
+But there's only one physics and bat physics is electromagnetic physics. It's the physics based on electric fields, magnetic fields and electromagnetic waves. And that's it.
+
+11
+00:01:29,760 --> 00:01:41,320
+If you understand charges, electric fields, magnetic fields, electromagnetic waves, if you understand those things, that is the foundation of any electrical electronics, telecommunications major or anything like that.
+
+12
+00:01:41,400 --> 00:01:48,240
+So as always in my videos, I urge you to learn the fundementals and get back to the basics and really focus on getting the basics really well.
+
+13
+00:01:48,240 --> 00:02:01,520
+Because if you understand the fundamentals, if you understand electromagnetic physics and you go out in the real world and there's all these people throwing these fancy terms that you you're not really fazed by it because you have a very solid understanding of the ground that everything else is built on top of.
+
+14
+00:02:01,600 --> 00:02:07,640
+I will say that one important distinction and major difference is electrical engineering versus electrical engineering technology.
+
+15
+00:02:07,640 --> 00:02:13,920
+That's because the electrical engineering technology has a bit more focus on application less on the electromagnetic physics theory.
+
+16
+00:02:13,920 --> 00:02:16,040
+And I actually made a video about that so you can check it out over there.
+

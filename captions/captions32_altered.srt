@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:04,000
+The goal of baseball is to score more runs than the other team.
+
+2
+00:00:04,000 --> 00:00:08,000
+The team that scores the most runs by the end of the game win.
+
+3
+00:00:08,000 --> 00:00:13,000
+To score a run, first try to hit the ball with a baseball bat when the pitcher throws it to you.
+
+4
+00:00:13,000 --> 00:00:19,000
+If you miss the ball, you get a strike, and once you get three strikes, you're out.
+
+5
+00:00:19,000 --> 00:00:25,000
+When you hit the ball, run counter-clockwise around the three bases, and back to the home plate you started at.
+
+6
+00:00:25,000 --> 00:00:29,000
+If you make it back without getting out, you score a run for your team.
+
+7
+00:00:29,000 --> 00:00:38,000
+If you can't make it all the way back, you can stop at first, second, or third bases, and wait for the next player on your team to bat.
+
+8
+00:00:38,000 --> 00:00:43,000
+Then, if they hit the ball you can continue running along the bases, toward the home plate.
+
+9
+00:00:43,000 --> 00:00:48,000
+Keep in mind that the other team will be trying to get you out while you're running the bases.
+
+10
+00:00:48,000 --> 00:00:50,000
+There are three ways they can do that.
+
+11
+00:00:50,000 --> 00:00:55,000
+First, if the other team picks up the ball and beets you to your base with it, you're out.
+
+12
+00:00:55,000 --> 00:01:01,000
+Second, if a player on the other team is holding the ball and they tag you with it, that means your out.
+
+13
+00:01:01,000 --> 00:01:07,000
+Finally, if you hit the ball and the opposing team catches it in the air, you're out.
+
+14
+00:01:07,00 --> 00:01:15,000
+Once your team has three outs, move to the outfild and try to stop the other team from scoring runs by getting them out.
+
+15
+00:01:15,000 --> 00:01:19,000
+After each team has gone up to bat, that's the end of the First inning.
+
+16
+00:01:19,000 --> 00:01:23,000
+In the official rules, there are nine inning in a baseball game.
+
+17
+00:01:23,000 --> 00:01:30,000
+Since their are no ties in baseball, keep playing additional innings if necessary until one team wins.
+

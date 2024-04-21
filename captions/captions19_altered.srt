@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:01,520
+This is luminol.
+
+2
+00:00:01,520 --> 00:00:07,280
+It's a chemical that exhibits something called chemiluminiscence and when it reacts, it can
+
+3
+00:00:07,280 --> 00:00:08,800
+release light.
+
+4
+00:00:08,800 --> 00:00:13,320
+To make these happen, I just have to add water to a beaker and a decent amount of sodium
+
+5
+00:00:13,320 --> 00:00:16,520
+carbonate.
+
+6
+00:00:16,520 --> 00:00:21,840
+Then I can add the luminol, which can disolve in this solution.
+
+7
+00:00:21,840 --> 00:00:27,320
+I also need to add some sodium bicarbonate and this solution is basically ready.
+
+8
+00:00:28,320 --> 00:00:34,440
+Now I just need to make an iron solution by mixing together 3% hydrogen peroxide and
+
+9
+00:00:34,440 --> 00:00:37,880
+something called potassium fericyanide.
+
+10
+00:00:37,880 --> 00:00:41,880
+To make the luminol glow, I just have to mix these two solution together.
+

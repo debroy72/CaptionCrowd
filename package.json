@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  },
+  "name": "embedded-video-player-main---for-many-video-at-once---word-correction---user-logic---part-2---tuning-multi-sessions---5",
+  "description": "The index.html is needed to run in the localhost the caption and video folder contains the video in mp4 format and the srt file is present for the caption",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
