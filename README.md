@@ -1,7 +1,5 @@
 # Embedded-video-player
-[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4774-d45815.svg)](https://doi.org/10.18419/darus-4774)
 [![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4775-d45815.svg)](https://doi.org/10.18419/darus-4775)
-[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4776-d45815.svg)](https://doi.org/10.18419/darus-4776)
 The index.html is needed to run in the localhost
 the caption and video folder contains the video in mp4 format and the srt file is present for the caption
 
